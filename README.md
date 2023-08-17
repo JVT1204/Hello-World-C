@@ -16,7 +16,7 @@ Esse código foi feito para testar nossos conhecimentos de linux, git e C. Tudo 
 ## Instalação
 
 1. Clone o repositório com o seguinte comando:\
-`git clone https://github.com/JVT1204/Hello-World-C.git`
+`git clone https://github.com/JVT1204/Hello-World-C.git && cd Hello-World-C``
 
 2. Execute a compilação com o seguinte comando\
 `gcc Arquivo.c -o Arquivo`
