@@ -6,6 +6,12 @@ Código inicial do laboratório 1 da disciplina de sistemas operacionais
 
 Esse código foi feito para testar nossos conhecimentos de linux, git e C. Tudo foi feito a partir da linha de comando, da escrita do código, compilação e commit.
 
+# Integrantes
+
+- Fernando Pegoraro Bilia - 32239882
+- João Vitor Tortorello - 32253796
+- Theodoro Priosti de Almeida - 32229011
+
 # Iniciando
 
 ## Pré Requisitos
